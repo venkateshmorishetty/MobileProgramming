@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewPassengerLabel" type="id" />
+    <item name="textViewPassengerName" type="id" />
+    <item name="leftRectangle" type="id" />
+    <item name="rightRectangle" type="id" />
+    <item name="divider" type="id" />
+    <item name="textViewBoardingTimeLabel" type="id" />
+    <item name="textViewBoardingTime" type="id" />
+    <item name="textViewDepartureTimeLabel" type="id" />
+    <item name="textViewBoardingInTimeLabel" type="id" />
+    <item name="textViewBoardingInCountdown" type="id" />
+    <item name="textViewArrivalTimeLabel" type="id" />
+    <item name="textViewDepartureTime" type="id" />
+    <item name="tableHeaderImage" type="id" />
+    <item name="textViewTerminal" type="id" />
+    <item name="textViewGate" type="id" />
+    <item name="textViewSeat" type="id" />
+    <item name="tableImage" type="id" />
+</resources>
